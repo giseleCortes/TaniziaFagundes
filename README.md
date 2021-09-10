@@ -1,29 +1,22 @@
 ### Oie, Meu Nome é Tanizia 👋
 
-- 🔭 &nbsp; Sou Desenvolvedora no Grupo Boticario
-- 🎓 &nbsp; Estudando Engenharia de Software
-- 🌱 &nbsp; Aprendendo mais sobre frameworks Javascript
-- 🌱 &nbsp; No tempo livre  gosto de Natureza, Musica e Netflix
-
-
 <div>
  <a href="https://github.com/TaniziaFagundes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaniziaFagundes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniziaFagundes&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
+#### Sobre Mim
+- 🔭 &nbsp; Sou Desenvolvedora no Grupo Boticario
+- 🎓 &nbsp; Estudando Engenharia de Software
+- 🌱 &nbsp; Aprendendo mais sobre frameworks Javascript
+- 🌱 &nbsp; No tempo livre  gosto de Natureza, Musica e Netflix
+ 
+ 
   
+ #### Linguagens e Ferramentas
   
-#### Minhas midias sociais
-<div> 
-    <a href="https://www.linkedin.com/in/taniziafagundes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://gitlab.com/taniziafagundes" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/tanizia.fagundes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/tanizia.fagundes.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
-</div>
-  
- #### **Linguagens e Ferramentas**
-  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,8 +27,17 @@
   <img align="center" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
+ 
+ 
+ 
+ ![Snake animation](https://github.com/TaniziaFagundes/TaniziaFagundes/blob/output/github-contribution-grid-snake.svg)
 
-
+<div> 
+    <a href="https://www.linkedin.com/in/taniziafagundes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://gitlab.com/taniziafagundes" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/tanizia.fagundes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/tanizia.fagundes.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
